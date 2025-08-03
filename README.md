@@ -1,10 +1,10 @@
 # FUTURE_DS_02
 
 
-📄 Project Description: Social Media Campaign Performance Dashboard
+Project Description: Social Media Campaign Performance Dashboard
 I developed a Social Media Dashboard in Power BI to analyze and monitor key performance metrics of digital ad campaigns. The goal was to help marketing teams understand ad spending, engagement, and ROI across different age groups, genders, and campaigns.
 
-🎯 What I Did:
+What I Did:
 Imported and cleaned social media ad performance data using Power Query
 
 - Created custom DAX measures for KPIs such as:
@@ -27,7 +27,7 @@ Built interactive visuals using:
 
 - Added slicers to filter data by Gender and Campaign ID
 
-📊 Key Insights Delivered:
+Key Insights Delivered:
 - Which age groups and genders perform better on social platforms
 
 - How ad clicks and CTR vary over time
@@ -36,7 +36,7 @@ Built interactive visuals using:
 
 - Spending vs. performance insights at a glance
 
-🧠 Skills Demonstrated:
+ Skills Demonstrated:
 - Power BI dashboard design & storytelling
 
 - DAX for campaign performance KPIs
